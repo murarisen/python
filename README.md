@@ -1,4 +1,4 @@
 # python
 
 
-This is my pythoncodes repo.
+This is my python codes repo.
